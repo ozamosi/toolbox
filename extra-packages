@@ -10,3 +10,4 @@ bat
 direnv
 just
 base-devel
+fd
