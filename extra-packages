@@ -11,3 +11,6 @@ direnv
 just
 base-devel
 fd
+vi
+btop
+direnv
