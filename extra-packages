@@ -14,3 +14,9 @@ fd
 vi
 btop
 direnv
+nmap
+dnsutils
+python
+python-pip
+ipython
+fzf
